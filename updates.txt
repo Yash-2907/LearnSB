@@ -3,3 +3,5 @@
 #learned 11th ka 10th tak , start from 11th step kal se
 
 #learned 12th ka part 3 , where we started the JPA , JDBC HIBERNATE database connection and dependency initialization , moreover we configured the application.properties to make H2 work
+
+#completed 12th ka part 7 , where i learned about JDBC & SPRING JDBC , where we learnt on how to run sql queries direct from classes using the @Repository and JdbcTemplate class , also learnt about Command line runner to run files on startup of code , lastly learned abour "?" in sql which help in dynamic value filling in sql queries
