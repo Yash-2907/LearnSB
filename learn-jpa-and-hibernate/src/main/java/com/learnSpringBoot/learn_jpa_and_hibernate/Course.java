@@ -2,8 +2,14 @@ package com.learnSpringBoot.learn_jpa_and_hibernate;
 
 import java.lang.reflect.Constructor;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
 public class Course {
-     private int id;
+	 @Id
+     private long id;
      private String name;
      private String author;
      
@@ -17,7 +23,7 @@ public class Course {
 		this.name = coursenameString;
 		this.author = authorString;
 	}
-	public int getId() {
+	public long getId() {
 		return id;
 	}
 	public String getCoursenameString() {
@@ -27,7 +33,7 @@ public class Course {
 		return author;
 	}
 
-	public void setId(int id) {
+	public void setId(long id) {
 		this.id = id;
 	}
 

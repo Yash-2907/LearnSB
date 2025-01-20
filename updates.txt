@@ -5,3 +5,5 @@
 #learned 12th ka part 3 , where we started the JPA , JDBC HIBERNATE database connection and dependency initialization , moreover we configured the application.properties to make H2 work
 
 #completed 12th ka part 7 , where i learned about JDBC & SPRING JDBC , where we learnt on how to run sql queries direct from classes using the @Repository and JdbcTemplate class , also learnt about Command line runner to run files on startup of code , lastly learned abour "?" in sql which help in dynamic value filling in sql queries
+
+#12th module entirely done where we learnt about JPA , SPRING DATA JPA , Hibernate which is used for implementation of JPA , also saw how spring data jpa uses a interface that extends JPARepository to bring in pre built features to direcly run functions on Entity like findbyid
