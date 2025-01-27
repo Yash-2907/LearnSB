@@ -33,5 +33,10 @@ public class sayHelloController {
 		return s;
 	}
 	
+	@RequestMapping("/hellojsp")
+	String sayHiJsp()
+	{
+		return "sayHello";
+	}
 	
 }

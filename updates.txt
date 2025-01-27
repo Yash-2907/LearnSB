@@ -9,3 +9,5 @@
 #12th module entirely done where we learnt about JPA , SPRING DATA JPA , Hibernate which is used for implementation of JPA , also saw how spring data jpa uses a interface that extends JPARepository to bring in pre built features to direcly run functions on Entity like findbyid
 
 #13th ka step 4 tak done , where we started building our first web app and setup , saw the usage of @Controller and @RequestMapping and @ResponseBody to hardcode html which is not preferred
+
+#13th ka step 7 done where we learnt about JSP and how is it configured using prefix , suffix , path intitialization , dependency adding for tomcat
