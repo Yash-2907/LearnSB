@@ -2,6 +2,6 @@
 <head>
 <title>My first html title</title>
 </head>
-<body>My first html body from jsp to login into site
+<body>Hi ${currname} this is the login page from jsp
 </body>
 </html>

@@ -11,3 +11,5 @@
 #13th ka step 4 tak done , where we started building our first web app and setup , saw the usage of @Controller and @RequestMapping and @ResponseBody to hardcode html which is not preferred
 
 #13th ka step 7 done where we learnt about JSP and how is it configured using prefix , suffix , path intitialization , dependency adding for tomcat
+
+#13th ka step 9 done where we learnt about logging , also saw about rrequest params and ModelMap used to pass a param to JSP using the put() method
