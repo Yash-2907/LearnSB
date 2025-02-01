@@ -13,3 +13,5 @@
 #13th ka step 7 done where we learnt about JSP and how is it configured using prefix , suffix , path intitialization , dependency adding for tomcat
 
 #13th ka step 9 done where we learnt about logging , also saw about rrequest params and ModelMap used to pass a param to JSP using the put() method
+
+#13th ka step 13 done , here we learned about GET POST , and saw hardcoded authentication functionality to practice
