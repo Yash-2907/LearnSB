@@ -15,3 +15,5 @@
 #13th ka step 9 done where we learnt about logging , also saw about rrequest params and ModelMap used to pass a param to JSP using the put() method
 
 #13th ka step 13 done , here we learned about GET POST , and saw hardcoded authentication functionality to practice
+
+#13th ka step 16th done , here we learned about GET/POST REQUEST METHODS , while using SessionAttribute to pass on value to multiple pages , also wrote basic funtionality for todo application
