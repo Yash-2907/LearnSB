@@ -17,3 +17,5 @@
 #13th ka step 13 done , here we learned about GET POST , and saw hardcoded authentication functionality to practice
 
 #13th ka step 16th done , here we learned about GET/POST REQUEST METHODS , while using SessionAttribute to pass on value to multiple pages , also wrote basic funtionality for todo application
+
+#13th ka step 17th done where we imported and learnt using functions like forEach in jsp using JSTL
