@@ -22,7 +22,7 @@ public class loginController {
 	
 	@RequestMapping(value = "login", method = RequestMethod.POST)
 	public String goToWelcome(@RequestParam String name,@RequestParam String password,ModelMap mm) {
-		String correctId="myid",correctPass="mypass";
+		String correctId="yash",correctPass="pass";
 		if(correctId.equals(name) && correctPass.equals(password))
 		{
 		mm.put("name",name);
